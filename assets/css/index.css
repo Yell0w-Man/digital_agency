@@ -3,8 +3,6 @@ font-size: 16px;
 margin: auto;
 margin-left: 0;
 margin-right: 0;
-overflow-y: hidden;
-overflow-y: hidden;
 font-family:url(../Nunito_Sans/static/NunitoSans_7pt_Condensed-Black.ttf) ;
 }
 
@@ -150,6 +148,7 @@ a:hover{
   .hire{
     display: inline-block;
     margin-left: 2em;
+    color: blue;
   }
 
   .centered-round-image {

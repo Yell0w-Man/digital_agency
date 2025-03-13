@@ -167,3 +167,10 @@ a:hover{
     object-fit: cover;
 }
   
+
+@media (max-width: 767.98px) {
+    .centered-round-image img {
+        width: 100%;
+        height: auto;
+    }
+}
